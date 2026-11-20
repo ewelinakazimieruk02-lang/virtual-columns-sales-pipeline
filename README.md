@@ -1,6 +1,3 @@
-# virtual-columns-sales-pipeline
-
-# Virtual Columns & Sales Revenue Pipeline
 
 # Virtual Columns & Sales Pipeline
 
